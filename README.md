@@ -1,10 +1,5 @@
-# MusicPlayer
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Kotlin](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
-
 <b>Simple Yet A Feature Rich Music Player Application.</b></br>
 
-<b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br>
 <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_2.png" width=30% height=30%/>
 <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_7.png" width=30% height=30%/>
 <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_5.png" width=30% height=30%/>
@@ -16,7 +11,7 @@
 <br>
 <br>
   
- <b>Features👇 : </b>
+ <b>Features : </b>
 <ul>
 <li>Play Next Feature (i.e. Now You Can Schedule Upcoming Songs)
 <li>Dark Theme(Using Black Theme in Settings)

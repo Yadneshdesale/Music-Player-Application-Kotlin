@@ -3,11 +3,7 @@
 <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_2.png" width=30% height=30%/>
 <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_7.png" width=30% height=30%/>
 <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_5.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_1.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_8.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_6.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_3.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_4.png" width=30% height=30%/>  
+
 <br>
 <br>
   

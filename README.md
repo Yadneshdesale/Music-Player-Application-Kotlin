@@ -2,7 +2,7 @@
 
 <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_2.png" width=30% height=30%/>
 <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_7.png" width=30% height=30%/>
-<img src="[https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_5.png](https://drive.google.com/file/d/1XASTzyL-vRsSypEa8vaVzRqITcv-CBMv/view?usp=sharing)" width=30% height=30%/>
+<img src="https://drive.google.com/file/d/1XASTzyL-vRsSypEa8vaVzRqITcv-CBMv/view?usp=sharing" width=30% height=30%/>
 
 <br>
 <br>

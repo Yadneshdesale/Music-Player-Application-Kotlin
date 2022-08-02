@@ -1,12 +1,4 @@
-<b>Simple Yet A Feature Rich Music Player Application.</b></br>
 
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_2.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_7.png" width=30% height=30%/>
-<img src="https://drive.google.com/file/d/1XASTzyL-vRsSypEa8vaVzRqITcv-CBMv/view?usp=sharing" width=30% height=30%/>
-
-<br>
-<br>
-  
  <b>Features : </b>
 <ul>
 <li>Play Next Feature (i.e. Now You Can Schedule Upcoming Songs)
